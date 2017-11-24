@@ -1,6 +1,6 @@
 public class Start {
-    //public static void main(String[] args) {
+    public static void main(String[] args) {
         String a = null;
-        int i = 1;
+        //int i = 1;
     }
 }
